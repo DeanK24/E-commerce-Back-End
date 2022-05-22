@@ -7,6 +7,7 @@ This is my E-commerce back end challenge. The challenge is to build the back end
 https://drive.google.com/file/d/1dhTJvEo9CSUXkymPMx-lMv0zSH9jlk1U/view
 
 ## Acceptance criteria
+```
 GIVEN a functional Express.js API
 WHEN I add my database name, MySQL username, and MySQL password to an environment variable file
 THEN I am able to connect to a database using Sequelize
@@ -18,6 +19,7 @@ WHEN I open API GET routes in Insomnia for categories, products, or tags
 THEN the data for each of these routes is displayed in a formatted JSON
 WHEN I test API POST, PUT, and DELETE routes in Insomnia
 THEN I am able to successfully create, update, and delete data in my database
+```
 
 ## Usage
 Open terminal
